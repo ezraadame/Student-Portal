@@ -10,11 +10,9 @@ The app provides a centralized platform for students to access important resourc
 - Calendar Integration: A built-in calendar to help students keep track of important dates, deadlines, and events.
 - Notifications: Customizable notifications to keep students informed about upcoming assignments, grades, and other important updates.
 
-
 ## Installation Instructions:
 The app is currently hosted on a Firebase site where it may be downloaded as an APK file for Android devices.
-Here is the current link to access the app: https://student-portal-app-8d96f.web.app/
-
+- Here is the current link to access the app: https://student-portal-app-8d96f.web.app/
 
 ## End-User Guide:
 #### Logging In
@@ -72,6 +70,31 @@ The home screen provides an overview of options the student can select to access
 - Users will be able to generate a report of current assessments completed, upcoming assessments, and overall progress towards degree completion.
 - <strong>This solves the problem of students not having a clear overview of their academic progress and upcoming deadlines.</strong>
 
+### Developer Guide:
+For developers looking to access the codebase and install the project locally, please follow the instructions below:
+
+#### Technical Requirements:
+- C#
+- .NET MAUI
+- Firebase
+- SQLite
+
+#### Running the application
+Once the repository is cloned, follow the steps below to run the application locally:
+Open the terminal to the project directory and run the following commands:
+
+- dotnet restore
+- dotnet build
+
+Once these have run ensure you have the following nuget packages installed:
+- NuGet Dependencies: 
+- BCrypt.Net-Next (4.0.3) - For secure password hashing
+- Microsoft.Maui.Controls (8.0.91) - Core MAUI framework
+- sqlite-net-pcl (1.9.172) - Cross-platform SQLite database
+- SQLitePCLRaw.bundle_green (2.1.11) - SQLite native bindings
+- Plugin.LocalNotification (11.1.0) - Cross-platform notifications
+
+From here, you can run and test the application using your preferred IDE that supports .NET MAUI development, such as Visual Studio.
 
 
 
