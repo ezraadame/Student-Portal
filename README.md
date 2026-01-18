@@ -11,6 +11,11 @@ The app provides a centralized platform for students to access important resourc
 - Notifications: Customizable notifications to keep students informed about upcoming assignments, grades, and other important updates.
 
 
+## Installation Instructions:
+The app is currently hosted on a Firebase site where it may be downloaded as an APK file for Android devices.
+Here is the current link to access the app: https://student-portal-app-8d96f.web.app/[Student Portal APK Download](https://student-portal-wgu.web.app/)
+
+
 ## End-User Guide:
 #### Logging In
 To access the Student Portal, navigate to the login page and enter your student credentials provided.
