@@ -27,9 +27,9 @@ Once the user is logged in, they will be directed to the dashboard where they ca
 
 Home Screen - The home screen provides an overview of options the student can select to access their courses, progress tracking, calendar, and notifications.
 
-	- The search bar at the top of the home screen allows students to quickly find specific courses or resources within the portal that they personally may have on their account.
-	- The access student classwork button will take the user to their current enrolled terms and courses where they can view course materials, and assignments.
-	- The set notifications button allows the user to customize their notification preferences for important updates.
-	- The access reports button will allow the user to generate a custom report of the assessments the student has completed or is set to take in the future.
-	- The log out button is provided as well for the user to securely exit their account when they are finished using the portal.
+- The search bar at the top of the home screen allows students to quickly find specific courses or resources within the portal that they personally may have on their account.
+- The access student classwork button will take the user to their current enrolled terms and courses where they can view course materials, and assignments.
+- The set notifications button allows the user to customize their notification preferences for important updates.
+- The access reports button will allow the user to generate a custom report of the assessments the student has completed or is set to take in the future.
+- The log out button is provided as well for the user to securely exit their account when they are finished using the portal.
 
