@@ -35,37 +35,37 @@ The home screen provides an overview of options the student can select to access
 - The log out button is provided as well for the user to securely exit their account when they are finished using the portal.
 
 #### Terms Page
-Users accessing the Terms Page will see a list of their current terms. Each term will display the courses the student is enrolled in for that specific term.
-Users are able to add new terms by clicking the "Add Term" button and entering the required information. 
-They are also able to click on any existing term to view more details about the courses within that term.
-As well as delete a term if needed. Deleting a term will also remove all associated courses and assignments.
+- Users accessing the Terms Page will see a list of their current terms. Each term will display the courses the student is enrolled in for that specific term.
+- Users are able to add new terms by clicking the "Add Term" button and entering the required information. 
+- They are also able to click on any existing term to view more details about the courses within that term.
+- As well as delete a term if needed. Deleting a term will also remove all associated courses and assignments.
 
 #### Courses Page
-Users accessing the Courses Page will see a list of their enrolled courses for the selected term.
-Each course will display the course name, instructor, and status (e.g., in progress, completed).
-Users can click on any course to view more details, including course materials, assignments, and grades.
-If users wish to, they are able to add notes onto each course for personal reference.
-Users can also add new courses by clicking the "Add Course" button and entering the required information.
-They are able to edit existing courses to update information such as course name or instructor.
-They can also delete a course if needed. Deleting a course will also remove all associated assignments.
+- Users accessing the Courses Page will see a list of their enrolled courses for the selected term.
+- Each course will display the course name, instructor, and status (e.g., in progress, completed).
+- Users can click on any course to view more details, including course materials, assignments, and grades.
+- If users wish to, they are able to add notes onto each course for personal reference.
+- Users can also add new courses by clicking the "Add Course" button and entering the required information.
+- They are able to edit existing courses to update information such as course name or instructor.
+- They can also delete a course if needed. Deleting a course will also remove all associated assignments.
 
 #### Assessments Page
-Users accessing the Assessments Page will see a list of their assignments for the selected course.
-Each assignment will display the assignment name, due date, and status (e.g., completed, pending).
-Users can click on any assignment to view more details, including instructions and submission status.
-Users can add new assignments by clicking the "Add Assignment" button and entering the required information.
-They are able to edit existing assignments to update information such as assignment name or due date.
-They can also delete an assignment if needed.
+- Users accessing the Assessments Page will see a list of their assignments for the selected course.
+- Each assignment will display the assignment name, due date, and status (e.g., completed, pending).
+- Users can click on any assignment to view more details, including instructions and submission status.
+- Users can add new assignments by clicking the "Add Assignment" button and entering the required information.
+- They are able to edit existing assignments to update information such as assignment name or due date.
+- They can also delete an assignment if needed.
 
 #### Notifications Page
-Users accessing the Notifications Page will see a list of their current notification preferences.
-Users can customize their notification settings by selecting the types of notifications they wish to receive (e.g., assignment due dates, grade updates).
-Users can enable or disable notifications as needed.
+- Users accessing the Notifications Page will see a list of their current notification preferences.
+- Users can customize their notification settings by selecting the types of notifications they wish to receive (e.g., assignment due dates, grade updates).
+- Users can enable or disable notifications as needed.
 
 #### Reports Page
-Users accessing the Reports Page will be able to generate custom reports based on their academic progress.
-Users will be able to generate a report of current assessments completed, upcoming assessments, and overall progress towards degree completion.
-<strong>This solves the problem of students not having a clear overview of their academic progress and upcoming deadlines.</strong>
+- Users accessing the Reports Page will be able to generate custom reports based on their academic progress.
+- Users will be able to generate a report of current assessments completed, upcoming assessments, and overall progress towards degree completion.
+- <strong>This solves the problem of students not having a clear overview of their academic progress and upcoming deadlines.</strong>
 
 
 
