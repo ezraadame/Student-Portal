@@ -11,6 +11,7 @@ namespace StudentPortal.EvaluationData
 {
     public class AnikaPatelData
     {
+        //Creates evaluation data for testing purposes
         public static async Task CreateEvaluationData(SQLiteAsyncConnection database)
         {
             await CreateTestUser(database);
